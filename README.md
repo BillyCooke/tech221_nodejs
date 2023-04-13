@@ -29,7 +29,7 @@ There are multiple dependencies that Node.Js relies on and these can be separate
 * gtest
 
 ## What is NPM?
-NPM is a software registry that contains over 800,00 packages. It can be used to share software. It is free to use and does not require any registration.
+NPM is a software registry that contains over 800,00 packages. It can be used to share software and manage private development. It is free to use and does not require any registration.
 
 ## What is a Reverse Proxy?
-A Reverse Proxy is an application that sits between the client and the webserver and forwards on the requests to the relevant server.
+A Reverse Proxy is an application that sits between the client and the webserver and forwards on the requests to the relevant server. This allows for greater security as it can filter out malicious requests and block anything suspicious. It can also improve scalability as it can add or remove servers when needed.
